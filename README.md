@@ -102,8 +102,7 @@ while True:
     cv2.waitKey(1)
 ```
 ###  Snippets 
-![Pasted image 20220207150346](https://user-images.githubusercontent.com/76518189/152794138-dae7ca0e-11f7-4d2c-b5dc-0a302fd0b5cb.png)
-![Pasted image 20220207150244](https://user-images.githubusercontent.com/76518189/152794158-d55a736b-9324-47a5-b8cd-09fb8149fe24.png)
+
 ### Output Video Link
 - Output : 
 ### Observations
